@@ -1,9 +1,7 @@
 /* Our CSS file. */
 
 
-.container, .content {
-width: 100%;
-}
+
 .container
 {
 	width:100vw;
