@@ -1,0 +1,67 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+display:inline-block;
+}
+.header-img,.search-icon,.header-block
+{
+	display: inline-block;
+}
+.header-block
+{
+	margin-top: 2%;
+}
+
+.header-img
+{
+	height:auto;
+	width:auto;
+	float: left;
+	padding-left:20px;
+
+
+}
+.search-icon
+{
+	vertical-align: 200%;
+	padding-left: 1000px;
+}
+.navi{
+	height:200px;
+	margin-top: 50px;
+	padding-left:20%;
+}
+.navi a
+{
+	padding:80px;
+
+}
+.imdiv{
+	margin-left: 5%;
+	width:50%;
+	height:700px;
+	vertical-align: top;
+}
+.middle-section,.aside1,.aside2,.imdiv
+{
+	display: inline-block;
+}
+.post-img
+{
+	padding:0 100px 50px 0;
+}
+.aside1
+{
+	vertical-align: top;
+	margin-left:30px;
+}
+ul li{
+	padding:20px;
+}
+#page-footer
+{
+	margin: 20px;
+}
+
